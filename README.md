@@ -1,4 +1,4 @@
- 📘 Educlarity.AI
+📘 Educlarity.AI
 
 > 🚀 AI-Powered Personalized Learning Ecosystem for Indian Students
 
@@ -12,6 +12,7 @@ It acts as a **24/7 AI mentor**, helping students learn smarter, track progress,
 
 🔗 [https://educlarity-ai.vercel.app/](https://educlarity-ai.vercel.app/)
 
+this is the project that made us win the Hack-a-Thon
 ---
 
 🎯 Problem Statement
